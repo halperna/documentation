@@ -4,7 +4,7 @@ title: Folder Visualization Perspective
 
 > **Note**: This perspective is not available in version 3 of TagSpaces.
 
-The **FolderViz Perspective** is a collection of experimental views hat apply some information visualization concepts to representing your files and folders. While the primary aim of FolderViz perspective is to showcase TagSpaces' capabilities to developers, some of the options might offer some useful features to the end users.
+The **FolderViz Perspective** is a collection of experimental views that apply some information visualization concepts to representing your files and folders. While the primary aim of FolderViz perspective is to showcase TagSpaces' capabilities to developers, some of the options might offer some useful features to the end users.
 
 **FolderViz Perspective** was offering five types of views, which were accessible from the FAB menu:
 
